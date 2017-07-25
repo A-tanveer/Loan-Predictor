@@ -21,5 +21,7 @@ ________________________________________________
     10      d           64  81.0251
 
 
-changing algorithm (auto, ball_tree, kd_tree, brute) has no effect on accuracy
-changing leaf size has no impact on accuracy.
+
+
+changing algorithm (auto, ball_tree, kd_tree, brute) has no effect on accuracy.
+Also changing leaf size has no impact on accuracy.
