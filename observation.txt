@@ -38,6 +38,6 @@ Too slow.....
 
 
 
-Neural Network MLP Classifier
+Neural Network MultiLayerPerception Classifier
 ----------------------------------------------------------------
 Accuracy  :  64.4784
