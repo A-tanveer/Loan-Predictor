@@ -27,6 +27,6 @@ if __name__ == '__main__':
     print('\n\n\n')
     print('Total number of training data: ', len(list(tr)))
     print('Total number of testing data: ', len(list(test)))
-    print('Original  : ' ,test)
-    print('Predicted : ',result)
+    print('Original  : ', test)
+    print('Predicted : ', result)
     print('Accuracy  : ', measure_accuracy(test, result))
